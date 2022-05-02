@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# distrace the daa
+/data/
+/data_alpha/
+/test_data/
+
 # Distribution / packaging
 .Python
 build/
